@@ -6,6 +6,9 @@
     </head>
     <body>
         <p>hola</p>
+        <p>hola</p>
+        <p>hola</p>
+        <p>hola</p>
         <?php
         // put your code here
         ?>
