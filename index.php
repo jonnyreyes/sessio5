@@ -5,6 +5,7 @@
         <title></title>
     </head>
     <body>
+        <p>hola</p>
         <?php
         // put your code here
         ?>
